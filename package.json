@@ -1,0 +1,22 @@
+{
+  "name": "usdtr-metadata",
+  "version": "1.0.0",
+  "description": "Official metadata for USDTR - Tether USD Bridged Wormhole (BEP-20)",
+  "main": "tokenlist.json",
+  "files": [
+    "tokenlist.json",
+    "logo.png"
+  ],
+  "keywords": [
+    "usdtr",
+    "wormhole",
+    "stablecoin",
+    "bep20",
+    "tokenlist"
+  ],
+  "author": "CryptoFinTech",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
