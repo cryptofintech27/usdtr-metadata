@@ -1,0 +1,38 @@
+{
+  "name": "USDTR - Tether USD Bridged Wormhole Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-12-14T00:00:00Z",
+  "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/logo.png",
+  "keywords": ["usdtr", "wormhole", "stablecoin", "bep20", "usd-pegged"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x855eC60F55900dc94Cc31f8A7E38a2A8F884a76a",
+      "name": "Tether USD Bridged Wormhole",
+      "symbol": "USDTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/logo.png",
+      "tags": ["stablecoin", "wormhole-bridged", "usd-pegged"],
+      "extensions": {
+        "bridge": "wormhole",
+        "pegPrice": 1.0,
+        "pegMechanism": "fiat-collateralized",
+        "website": "https://www.cryptofintech.live",
+        "email": "admin@cryptofintech.live",
+        "twitter": "https://x.com/CRYPTOFINTECH27",
+        "telegram": "https://t.me/cryptofintechtoken",
+        "discord": "https://discord.gg/7tN5FpXg"
+      }
+    }
+  ]
+}
