@@ -1,11 +1,11 @@
 {
   "name": "usdtr-metadata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official metadata for USDTR - Tether USD Bridged Wormhole (BEP-20)",
   "main": "tokenlist.json",
   "files": [
     "tokenlist.json",
-    "logo.png"
+    "usdtrlogo.png"
   ],
   "keywords": [
     "usdtr",
