@@ -6,7 +6,7 @@
     "patch": 0
   },
   "timestamp": "2025-12-14T00:00:00Z",
-  "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/logo.png",
+  "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/usdtrlogo.png",
   "keywords": ["usdtr", "wormhole", "stablecoin", "bep20", "usd-pegged"],
   "tags": {
     "stablecoin": {
@@ -21,7 +21,7 @@
       "name": "Tether USD Bridged Wormhole",
       "symbol": "USDTR",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/npm/usdtr-metadata@latest/usdtrlogo.png",
       "tags": ["stablecoin", "wormhole-bridged", "usd-pegged"],
       "extensions": {
         "bridge": "wormhole",
